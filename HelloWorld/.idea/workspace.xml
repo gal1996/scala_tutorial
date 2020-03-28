@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db70c782-534b-4797-accc-9d532b42cb35" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZhOi4XGjZp1rzKsONiAJh0C2W8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.HelloWorld">
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Hello" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.Hello" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db70c782-534b-4797-accc-9d532b42cb35" name="Default Changelist" comment="" />
+      <created>1585287983284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585287983284</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1876" height="304" key="GridCell.Tab.0.bottom" timestamp="1585288913431">
+      <screen x="-1920" y="-500" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="304" key="GridCell.Tab.0.bottom/0.0.1280.800/-1920.-500.1920.1080@-1920.-500.1920.1080" timestamp="1585288913431" />
+    <state width="1876" height="304" key="GridCell.Tab.0.center" timestamp="1585288913429">
+      <screen x="-1920" y="-500" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="304" key="GridCell.Tab.0.center/0.0.1280.800/-1920.-500.1920.1080@-1920.-500.1920.1080" timestamp="1585288913429" />
+    <state width="1876" height="304" key="GridCell.Tab.0.left" timestamp="1585288913427">
+      <screen x="-1920" y="-500" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="304" key="GridCell.Tab.0.left/0.0.1280.800/-1920.-500.1920.1080@-1920.-500.1920.1080" timestamp="1585288913427" />
+    <state width="1876" height="304" key="GridCell.Tab.0.right" timestamp="1585288913430">
+      <screen x="-1920" y="-500" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="304" key="GridCell.Tab.0.right/0.0.1280.800/-1920.-500.1920.1080@-1920.-500.1920.1080" timestamp="1585288913430" />
+    <state x="-1451" y="-321" key="SettingsEditor" timestamp="1585288104579">
+      <screen x="-1920" y="-500" width="1920" height="1080" />
+    </state>
+    <state x="-1451" y="-321" key="SettingsEditor/0.0.1280.800/-1920.-500.1920.1080@-1920.-500.1920.1080" timestamp="1585288104579" />
+    <state x="-1441" y="-214" key="com.intellij.ide.util.TipDialog" timestamp="1585288128669">
+      <screen x="-1920" y="-500" width="1920" height="1080" />
+    </state>
+    <state x="-1441" y="-214" key="com.intellij.ide.util.TipDialog/0.0.1280.800/-1920.-500.1920.1080@-1920.-500.1920.1080" timestamp="1585288128669" />
+    <state x="319" y="211" key="com.intellij.ide.util.TipDialog/0.23.1280.711/-1920.-477.1920.1057@0.23.1280.711" timestamp="1585288000287" />
+    <state x="-1368" y="-373" width="816" height="825" key="find.popup" timestamp="1585288478727">
+      <screen x="-1920" y="-500" width="1920" height="1080" />
+    </state>
+    <state x="-1368" y="-373" width="816" height="825" key="find.popup/0.0.1280.800/-1920.-500.1920.1080@-1920.-500.1920.1080" timestamp="1585288478727" />
+    <state x="-1566" y="-234" key="new project wizard" timestamp="1585288910602">
+      <screen x="-1920" y="-500" width="1920" height="1080" />
+    </state>
+    <state x="-1566" y="-234" key="new project wizard/0.0.1280.800/-1920.-500.1920.1080@-1920.-500.1920.1080" timestamp="1585288910602" />
+  </component>
+</project>

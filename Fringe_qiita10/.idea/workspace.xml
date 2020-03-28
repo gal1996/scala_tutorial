@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c7120a0-ea30-46e1-b5f8-60b9de3518ab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZhtuCGbejmRPQ0lJHgI6pxufcx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TypeParamSample" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="TypeParamSample" />
+      <module name="Fringe_qiita10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TypeParamSample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c7120a0-ea30-46e1-b5f8-60b9de3518ab" name="Default Changelist" comment="" />
+      <created>1585303374088</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585303374088</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1876" height="304" key="GridCell.Tab.0.bottom" timestamp="1585304078289">
+      <screen x="-1920" y="-500" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="304" key="GridCell.Tab.0.bottom/0.23.1280.777/-1920.-500.1920.1080@-1920.-500.1920.1080" timestamp="1585304078289" />
+    <state width="1876" height="304" key="GridCell.Tab.0.center" timestamp="1585304078288">
+      <screen x="-1920" y="-500" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="304" key="GridCell.Tab.0.center/0.23.1280.777/-1920.-500.1920.1080@-1920.-500.1920.1080" timestamp="1585304078288" />
+    <state width="1876" height="304" key="GridCell.Tab.0.left" timestamp="1585304078287">
+      <screen x="-1920" y="-500" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="304" key="GridCell.Tab.0.left/0.23.1280.777/-1920.-500.1920.1080@-1920.-500.1920.1080" timestamp="1585304078287" />
+    <state width="1876" height="304" key="GridCell.Tab.0.right" timestamp="1585304078288">
+      <screen x="-1920" y="-500" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="304" key="GridCell.Tab.0.right/0.23.1280.777/-1920.-500.1920.1080@-1920.-500.1920.1080" timestamp="1585304078288" />
+    <state x="-1566" y="-234" key="new project wizard" timestamp="1585304077007">
+      <screen x="-1920" y="-500" width="1920" height="1080" />
+    </state>
+    <state x="-1566" y="-234" key="new project wizard/0.23.1280.777/-1920.-500.1920.1080@-1920.-500.1920.1080" timestamp="1585304077007" />
+  </component>
+</project>
