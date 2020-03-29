@@ -1,23 +1,15 @@
 object question12 {
   def foo(n: Int): Int = {
-    println(s"input = $n")
-    val r = n * 3
-    println(s"result = $r")
-
-    r
+    fuga[Int](n, p => p * 3)
   }
 
   def bar(s: String): String = {
-    println(s"input = $s")
-    val r = s * 2
-    println(s"result = $r")
-
-    r
+    fuga[String](s, p => p * 2)
   }
 
-  def fuga[A](v: A, times: Int): Any = {
+  def fuga[A](v: A, calcfunc: A => A): A = {
     println(s"input = $v")
-    val r = v * times
+    val r = calcfunc(v)
     println(s"result = $r")
 
     r
