@@ -8,9 +8,6 @@ object question1 {
   }
 
   def show(message: Option[String]): Unit = {
-    message match {
-      case Some(value) => println(value)
-      case None =>
-    }
+    message.foreach(println)
   }
 }

@@ -2,25 +2,14 @@ import scala.concurrent._
 import ExecutionContext.Implicits.global
 import scala.concurrent.duration.Duration
 
-object question16 {
+object question16_2 {
   def main(args: Array[String]): Unit = {
     val start = System.currentTimeMillis()
 
-    val af = Future {
-      Thread.sleep(2000)
-      1
-    }
-
-    val bf = Future {
-     Thread.sleep(4000)
-     2
-    }
-
     val f = for {
-      a <- af
+      v <- Future{Thread.sleep(2000); 1}.zip(Future{Thread.sleep(4000); 2})
 
-      b <- bf
-    } yield a + b
+    } yield v._1 + v._2
 
     Await.result(f, Duration.Inf)
     val end = System.currentTimeMillis()

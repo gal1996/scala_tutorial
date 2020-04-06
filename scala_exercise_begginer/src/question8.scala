@@ -7,13 +7,12 @@ object question8 {
       "shiro" -> Map("math" -> 99, "social" -> 81),
       "hanako" -> Map("math"->84, "english"->78, "social"->66))
 
-    scores.foreach({ i =>
-      (i._2.contains("math") && i._2.contains("english")) match {
-        case true => {
-          println(Map(i._1 -> (i._2("math") + i._2("english"))/2))
-        }
-        case false =>
-      }
-    })
+    for{
+      v <- scores
+      m <- v._2.get("math")
+      e <- v._2.get("english")
+    } {
+      println(Map(v._1 -> (m+e)/2))
+    }
   }
 }

@@ -1,8 +1,13 @@
 object question10 {
   def main(args: Array[String]): Unit = {
     val l = List(List("hello", "world"), List("good", "morning"))
+    println(l.flatMap(x => x))
+    println(l.flatMap(_.mkString(" ")))
     val a = l.flatMap(_.mkString(" ").toUpperCase())
     println(a)
+
+    val m = List("one", "two", "three")
+    println(m.mkString(" "))
   }
 }
 

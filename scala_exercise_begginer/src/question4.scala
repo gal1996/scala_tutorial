@@ -5,6 +5,7 @@ object question4 {
 
     println(mOpt.get(1))
     println(m(1)) // mOpt.get(1)と同じこと
+    println(m.apply(1))
     println(mOpt.get get(1)) // Optionでくるみたければ、こう書く
   }
 }

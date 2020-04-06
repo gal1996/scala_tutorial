@@ -11,10 +11,13 @@ object question3 {
 object NumEnglishDictionary {
  private val dictionary = Map(1->"one", 2->"two")
 
+  // これは、mapだと通らない。mapは型がA => Bの関数を受け取るので、関数内でNoneを返すような処理があると実行時にエラーになってしまう
+  // flatMapだと受け取る関数の型がA => Option(B)なのでNoneが帰る場合でも問題ない
+  // という理解はあってますか？？
  def translate(num: Option[Int]): Option[String] = {
-  num match {
-   case Some(v) => dictionary get (v)
-   case None => None
-  }
+   // 通らない
+   // num.map({n => dictionary(n)})
+   // 通る
+   num.flatMap(n => dictionary get (n))
  }
 }
